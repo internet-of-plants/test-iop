@@ -1,0 +1,8 @@
+__pycache__
+.pio
+.vscode
+.*.swo
+.*.swp
+workspace.code-workspace
+eeprom.dat
+x509_crt_bundle.bin
